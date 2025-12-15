@@ -2,10 +2,7 @@
 @import url("css/global.css");
 @import url("css/header.css");
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 .hero {
   background-image: url("/public/img/heroimage-edugate.png");
   background-size: auto 100%;
@@ -28,19 +25,11 @@
 
 .hero-title {
   font-weight: 700;
-<<<<<<< HEAD
-  font-family: "Poppins", sans-serif;
-}
-
-.hero-subtitle {
-  font-family: "Poppins", sans-serif;
-=======
   font-family: 'Poppins', sans-serif;
 }
 
 .hero-subtitle {
   font-family: 'Poppins', sans-serif;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
   font-weight: 300;
   max-width: 75%;
   line-height: 1.4;
@@ -70,11 +59,7 @@
   padding: 0.5rem 0;
   border-radius: 0.375rem;
 
-<<<<<<< HEAD
-  font-family: "Poppins", sans-serif;
-=======
   font-family: 'Poppins', sans-serif;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
   font-size: 1rem;
   font-weight: 600;
   text-decoration: none;
@@ -83,33 +68,13 @@
 }
 
 .btn-primary {
-<<<<<<< HEAD
-  background-color: #4caf50;
-  color: #ffffff;
-  border: 2px solid #4caf50;
-=======
   background-color: #4CAF50;
   color: #ffffff;
   border: 2px solid #4CAF50;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 }
 
 .btn-secondary {
   background-color: transparent;
-<<<<<<< HEAD
-  border: 2px solid #2196f3;
-  color: #2196f3;
-}
-.btn-primary:hover {
-  background-color: #388e3c;
-  border-color: #388e3c;
-}
-
-.btn-secondary:hover {
-  background-color: #bbdefb;
-  color: #2196f3;
-  border-color: #2196f3;
-=======
   border: 2px solid #2196F3;
   color: #2196F3;
 }
@@ -126,28 +91,18 @@
 
 #footer {
   display: none;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 }
 
 /* SM */
 @media (min-width: 768px) {
-<<<<<<< HEAD
-=======
   #footer {
     display: block;
   }
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 }
 
 /* MD */
 
 @media (min-width: 768px) {
-<<<<<<< HEAD
-  .hero {
-    height: 40vh;
-    background-size: cover;
-    margin-top: 3rem;
-=======
    #footer {
     display: flex;
     justify-content: center;
@@ -158,7 +113,6 @@
     height: 40vh;
     background-size: cover;
     margin-top: 3rem;;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
     margin-bottom: 3rem;
   }
 
@@ -197,10 +151,7 @@
     min-width: 140px;
     padding: 8px 18px;
   }
-<<<<<<< HEAD
-=======
 
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 }
 
 /* LG */
@@ -215,11 +166,7 @@
 
   .hero {
     height: 70vh;
-<<<<<<< HEAD
-    margin-top: 5rem;
-=======
     margin-top: 5rem;;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
     margin-bottom: 5rem;
     background-size: cover;
     background-position: center;
@@ -249,15 +196,9 @@
 
   .hero-subtitle {
     font-size: 1.1rem;
-<<<<<<< HEAD
-    max-width: 1000px;
-    margin-top: 0rem;
-    font-weight: 500;
-=======
       max-width: 1000px;
       margin-top: 0.0rem; 
       font-weight: 500;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
   }
 
   .hero-buttons {
@@ -267,28 +208,15 @@
     min-width: 133px;
     border-radius: 6px;
     font-size: 1rem;
-<<<<<<< HEAD
-  }
-=======
     }
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
 
   .hero-buttons .btn {
     min-width: 160px;
     padding: 1rem 1.5rem;
-<<<<<<< HEAD
-    gap: 10px;
-    font-family: "Poppins", sans-serif;
-=======
     gap: 10px;    
     font-family: 'Poppins', sans-serif;
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
     font-weight: 700;
     font-size: 24px;
     line-height: 100%;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 25c6aa99e593905a2e57c9a879dcbe8bc79fcd96
